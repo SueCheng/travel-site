@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SueCheng/travel-site#readme",
   "dependencies": {
     "jquery": "^3.3.1",
+    "jquery-smooth-scroll": "^2.2.0",
     "lodash": "^4.17.5",
     "normalize.css": "^8.0.0",
     "waypoints": "^4.0.1"
